@@ -1,5 +1,5 @@
 import turtle
-#clcoding.com
+
 t = turtle.Turtle()
 s = turtle.Screen()
 s.bgcolor('#262626')
